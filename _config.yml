@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "China, Beijing"
-title                    : "Zhao Yapeng / 兔狲"
+title                    : "Yapeng Zhao / 兔狲"
 title_separator          : "-"
-name                     : &name "Zhao Yapeng"
+name                     : &name "Yapeng Zhao"
 description              : &description "personal description"
 url                      : https://PallazCat.github.io # the base hostname & protocol for your site e.g. "https://PallazCat.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhao Yapeng"
+  name             : "Yapeng Zhao"
   avatar           : "0f887aad40b5439dc0e77837730472cd.jpg"
   bio              : "我们必须知道，我们必将知道！！"
   location         : "currently at PKU"
