@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhao Yapeng's Homepage.(赵雅鹏)"
+title: "Yapeng Zhao's Homepage.(赵雅鹏)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
