@@ -10,7 +10,7 @@ redirect_from:
 
 Updated Date 
 ======
-20260525
+May 25th, 2026
 
 Who I Am
 ======
