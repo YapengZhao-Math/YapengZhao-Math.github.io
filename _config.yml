@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "China, Beijing"
-title                    : "Yapeng Zhao | Pure Mathematics"
+title                    : "Yapeng Zhao"
 title_separator          : "-"
 name                     : &name "Yapeng Zhao"
-description              : &description "Yapeng Zhao is a pure mathematics PhD student at the University of Toronto, with interests in mathematical physics, Lee-Yang zeros, the Dyson Hierarchical Model, and Hilbert's sixth problem."
+description              : &description "Yapeng Zhao is a PhD student at the University of Toronto, with interests in mathematical physics, Lee-Yang zeros, the Dyson Hierarchical Model, and Hilbert's sixth problem."
 url                      : https://YapengZhao-Math.github.io # the base hostname & protocol for your site e.g. "https://YapengZhao-Math.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YapengZhao-Math/YapengZhao-Math.github.io"
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Yapeng Zhao"
   avatar           : "0f887aad40b5439dc0e77837730472cd.jpg"
-  bio              : "Pure Mathematics PhD student at the University of Toronto"
+  bio              : ""
   location         : "currently at PKU"
   #email            : "zhaoyapeng@stu.pku.edu.cn"
   github           : "YapengZhao-Math"
