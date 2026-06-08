@@ -18,6 +18,8 @@ I am Yapeng Zhao, a student about to graduate from Peking University in China an
 
 I hope to understand mathematics in an era where AI may become both a competitor and a collaborator.
 
+Though this website was built before the era of AI, I started using codex to help me to edit this website.
+
 My Academic Interests 
 ======
 Generally, I am interested in mathematical physics, but I do have broad interests in both mathematics and sciences.
@@ -65,5 +67,4 @@ I enjoy writing random things!
 My Email (Please feel free to contact me!)
 ======
 yapeng dot zhao at mail dot utoronto dot ca
-
 
