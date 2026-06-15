@@ -10,7 +10,7 @@ redirect_from:
 
 Updated Date 
 ======
-June 6th, 2026
+June 15th, 2026
 
 Who I Am
 ======
@@ -63,6 +63,8 @@ I enjoy writing random things!
 [Solutions to some exercises (textbook: Fractals in Probability and Analysis. Note that after Chapter 1, it is much more well-written.)](https://www.overleaf.com/read/srnqgqvydqjj#1c0102)
 
 [Supplement to Ruelle's Proof about Extention of Lee-Yang Theorem](https://www.overleaf.com/read/mwdfqjhygdnn#20a0e1)
+
+I am finding collaborators in statistical physics.
 
 My Email (Please feel free to contact me!)
 ======
