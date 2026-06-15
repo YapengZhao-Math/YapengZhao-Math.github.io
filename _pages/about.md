@@ -18,7 +18,7 @@ I am Yapeng Zhao, a student about to graduate from Peking University in China an
 
 I hope to understand mathematics in an era where AI may become both a competitor and a collaborator.
 
-Though this website was built before the era of AI, I started using codex to help me to edit this website.
+Though this website was built before the era of AI, I started using codex to help me to edit it.
 
 My Academic Interests 
 ======
