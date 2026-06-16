@@ -1,10 +1,10 @@
-/* ==========================================================================
+/* ============================================================================
    SIDEBAR
-   ========================================================================== */
+   ============================================================================ */
 
 /*
    Default
-   ========================================================================== */
+   ============================================================================ */
 
 .sidebar {
   -webkit-transform: translate3d(0, 0 , 0);
@@ -67,26 +67,29 @@
 
 /*
    Author profile and links
-   ========================================================================== */
+   ============================================================================ */
 
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
+  width: 96px;
   // set width only, for non-square avatars
   // height: 36px;
 
   @include breakpoint($large) {
     display: block;
-    width: auto;
+    width: 100%;
     height: auto;
   }
 
   img {
-    max-width: 175px;
-    border-radius: 50%;
+    width: 96px;
+    max-width: 96px;
+    border-radius: 12px;
 
     @include breakpoint($large) {
+      width: 100%;
+      max-width: 230px;
       padding: 5px;
       border: 1px solid $border-color;
     }
