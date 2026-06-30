@@ -16,10 +16,6 @@ Who I Am
 ======
 I am Yapeng Zhao, a student about to graduate from Peking University in China and become a PhD student at the University of Toronto this September.
 
-I hope to understand mathematics in an era where AI may become both a competitor and a collaborator.
-
-Though this website was built before the era of AI, I started using codex to help me to edit it.
-
 My Academic Interests 
 ======
 At present, I am deeply absorbed in exploring the limits of AI in mathematics.
