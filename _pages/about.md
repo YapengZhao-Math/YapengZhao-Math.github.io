@@ -22,6 +22,8 @@ Though this website was built before the era of AI, I started using codex to hel
 
 My Academic Interests 
 ======
+At present, I am deeply absorbed in exploring the limits of AI in mathematics.
+
 Generally, I am interested in mathematical physics, but I do have broad interests in both mathematics and sciences.
 
 Hilbert’s sixth problem was partially solved by Andrey Kolmogorov in the 1930s by putting
