@@ -18,16 +18,15 @@ I am Yapeng Zhao, a student just graduated from Peking University in China and w
 
 My Academic Interests 
 ======
-At present, I am deeply absorbed in exploring the limits of AI in mathematics.
-
 Generally, I am interested in mathematical physics, but I do have broad interests in both mathematics and sciences.
 
-Hilbert’s sixth problem was partially solved by Andrey Kolmogorov in the 1930s by putting
-probability theory on an axiomatic basis. The most recent advance is the derivation of fluid equations
-via Boltzmann’s kinetic theory in 2025. However, there are infinite open problems left, including
-deriving those equations by more reliable and realistic models, establishing a rigorous mathematical
-foundation for AI, and solving the original version of Hilbert’s 6th problem–axiomatizing theories of
-physics.
+Currently, I am particularly interested in phase transitions, especially in developing a dictionary that relates graphs, classes of models, and orders of phase transitions, and in identifying concrete physical or chemical systems that realize each type of behavior.
+
+### A Broader Motivation
+
+Hilbert’s sixth problem was partially solved by Andrey Kolmogorov in the 1930s by putting probability theory on an axiomatic basis. The most recent advance is the derivation of fluid equations via Boltzmann’s kinetic theory in 2025. However, infinitely many open problems remain, including deriving these equations from more reliable and realistic models, establishing a rigorous mathematical foundation for AI, and addressing the original formulation of Hilbert’s sixth problem: the axiomatization of physical theories.
+
+At present, I am deeply absorbed in exploring the limits of AI in mathematics.
  
 My Hobbies
 ======
