@@ -20,7 +20,7 @@ My Academic Interests
 ======
 Generally, I am interested in mathematical physics, but I do have broad interests in both mathematics and sciences.
 
-Currently, I am particularly interested in phase transitions, especially in developing a dictionary that relates graphs, classes of models, and orders of phase transitions, and in identifying concrete physical or chemical systems that realize each type of behavior.
+Currently, I am particularly interested in phase transitions, especially in developing a dictionary that relates graphs, classes of models, and phase transitions, and in identifying concrete physical or chemical systems that realize each type of behavior.
 
 ### A Broader Motivation
 
